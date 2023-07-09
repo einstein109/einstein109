@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @einstein109
-- 👀 I’m interested in in coding challenges
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I am a highly skilled and experienced software engineer with a passion for technology. I have a deep understanding of computer science and engineering principles, and I am proficient in a variety of programming languages and technologies. I am also a creative thinker and problem solver, and I am always looking for new ways to improve the software I develop.
 
 <!---
 einstein109/einstein109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
